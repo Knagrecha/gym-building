@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 
 register(
 
-    id='g=Building-v0',
+    id='Building-v0',
 
     entry_point='gym-building.envs:BuildingEnv',
 
