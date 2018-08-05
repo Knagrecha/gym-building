@@ -1,1 +1,1 @@
-  from gym-building.envs.building import BuildingEnv
+  from gym-building.envs.building_env import BuildingEnv
